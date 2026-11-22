@@ -1,0 +1,12 @@
+{
+  "name": "daymark-us-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daymark US-facing dating landing page with Vercel country-aware redirects.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
